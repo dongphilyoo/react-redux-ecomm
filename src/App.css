@@ -1,0 +1,10 @@
+/* Navbar */
+.navbar-nav a {
+    font-size: 18px;
+}
+
+.hero img {
+    max-height: 700px;
+    object-position: 50% 50%;
+    object-fit: cover;
+}
